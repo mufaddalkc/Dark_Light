@@ -21,11 +21,13 @@ const ImageCard = ({ darkMode, toggleDarkMode }) => {
 
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            THEORY OF COMPUTATION [TOC] | SEM 6 | MOST IMP
+            Hello World
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            This is a description or subtitle of the card. It provides
-            additional information about the content of the card.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam
+            vitae porro, incidunt perferendis sapiente velit corrupti deserunt
+            placeat molestias sunt, officiis, quos ex voluptas repellat. Dicta
+            assumenda atque aperiam.
           </Typography>
         </CardContent>
       </Card>

@@ -1,9 +1,6 @@
 import React from "react";
-
 import { useDarkMode, DarkModeProvider } from "./DarkModeContext";
-
 import { lightTheme, darkTheme } from "./theme";
-
 import MainLayout from "./MainLayout";
 
 const MyApp = () => {
